@@ -11,13 +11,19 @@ a {
 }
 
 /*header*/
-
+header {
+	background: url("../images/background.jpg");
+	background-size: cover;
+	background-position: center center;
+	width: 60%;
+}
 h1.hidden {
 	display: none;
 }
 li {
 	display: inline-block;
 }
-span {
+p {
 	float: right;
 }
+
